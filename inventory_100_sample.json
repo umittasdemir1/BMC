@@ -1,0 +1,802 @@
+[
+  {
+    "Barkod": "8691600146759",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "YELLOW",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600154204",
+    "Ürün Kodu": "BM22003197MS",
+    "Ürün Adı": "ARTHUS STRETCH SOLID",
+    "Renk Açıklaması": "SILVER",
+    "Beden": "M",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146681",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "SKY BLUE",
+    "Beden": "M",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600146698",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "SKY BLUE",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600136415",
+    "Ürün Kodu": "BM21055206A4",
+    "Ürün Adı": "BM BOOK MEDIUM",
+    "Renk Açıklaması": "Standart",
+    "Beden": "M",
+    "Envanter": "18"
+  },
+  {
+    "Barkod": "8691600168973",
+    "Ürün Kodu": "BM220231264A",
+    "Ürün Adı": "ROY",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "40-44",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600158264",
+    "Ürün Kodu": "BM22004181MS",
+    "Ürün Adı": "BM CARGO",
+    "Renk Açıklaması": "STORM GREY",
+    "Beden": "38",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600203179",
+    "Ürün Kodu": "BM22026133M4",
+    "Ürün Adı": "TOM",
+    "Renk Açıklaması": "GREY MELANGE",
+    "Beden": "L",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146766",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "RED",
+    "Beden": "M",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600146773",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "RED",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600136606",
+    "Ürün Kodu": "BM21012210KS",
+    "Ürün Adı": "REX BOY",
+    "Renk Açıklaması": "GREY MELANGE",
+    "Beden": "0-2",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600136620",
+    "Ürün Kodu": "BM21012210KS",
+    "Ürün Adı": "REX BOY",
+    "Renk Açıklaması": "GREY MELANGE",
+    "Beden": "2025-10-07 00:00:00",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600167389",
+    "Ürün Kodu": "BM220232604A",
+    "Ürün Adı": "FINCH",
+    "Renk Açıklaması": "DAZZLING BLUE",
+    "Beden": "39-41",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600224761",
+    "Ürün Kodu": "BM23001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "2XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600224747",
+    "Ürün Kodu": "BM23001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600235576",
+    "Ürün Kodu": "BM23001091MW",
+    "Ürün Adı": "LEO",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600222590",
+    "Ürün Kodu": "BM23001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "3XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600210061",
+    "Ürün Kodu": "BM23003123MS",
+    "Ürün Adı": "GTS",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "3XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600222675",
+    "Ürün Kodu": "BM23001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "M",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600222682",
+    "Ürün Kodu": "BM23001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600224815",
+    "Ürün Kodu": "BM23001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600224877",
+    "Ürün Kodu": "BM23001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600116882",
+    "Ürün Kodu": "BM2004181MS",
+    "Ürün Adı": "BM CARGO",
+    "Renk Açıklaması": "SAND",
+    "Beden": "38",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600136408",
+    "Ürün Kodu": "BM21055207A4",
+    "Ürün Adı": "BM BOOK LARGE",
+    "Renk Açıklaması": "Standart",
+    "Beden": "L",
+    "Envanter": "23"
+  },
+  {
+    "Barkod": "8691600146742",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "YELLOW",
+    "Beden": "M",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600146803",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "M",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600134688",
+    "Ürün Kodu": "BM21011200A4",
+    "Ürün Adı": "BARNEY",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "STD",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600136668",
+    "Ürün Kodu": "BM21012210KS",
+    "Ürün Adı": "REX BOY",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "0-2",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600227625",
+    "Ürün Kodu": "BM23012202A4",
+    "Ürün Adı": "REX TECH",
+    "Renk Açıklaması": "24H LE MANS DARK NAVY",
+    "Beden": "STD",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600253280",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "2XL",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600121237",
+    "Ürün Kodu": "BM2023126M",
+    "Ürün Adı": "ROY",
+    "Renk Açıklaması": "BORDEAUX",
+    "Beden": "40-44",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600136675",
+    "Ürün Kodu": "BM21012210KS",
+    "Ürün Adı": "REX BOY",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "2025-06-03 00:00:00",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600136637",
+    "Ürün Kodu": "BM21012210KS",
+    "Ürün Adı": "REX BOY",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "0-2",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146797",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "BROWN",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600209997",
+    "Ürün Kodu": "BM23003123MS",
+    "Ürün Adı": "GTS",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "2XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600210092",
+    "Ürün Kodu": "BM23003123MS",
+    "Ürün Adı": "GTS",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600217404",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "SAND",
+    "Beden": "30",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600228325",
+    "Ürün Kodu": "BM23012301KS",
+    "Ürün Adı": "BM BUCKET KIDS",
+    "Renk Açıklaması": "CORAL BLUE",
+    "Beden": "5-6Y",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600238263",
+    "Ürün Kodu": "BM23001091MW",
+    "Ürün Adı": "LEO",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "L",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600238287",
+    "Ürün Kodu": "BM23001091MW",
+    "Ürün Adı": "LEO",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600217206",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "32",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600217442",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "SAND",
+    "Beden": "36",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146728",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "ORANGE",
+    "Beden": "M",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600146735",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "ORANGE",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600224389",
+    "Ürün Kodu": "BM23023126A4",
+    "Ürün Adı": "ROY",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "40-44",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600263791",
+    "Ürün Kodu": "BM23067391A4",
+    "Ürün Adı": "BM WATCH OCEANIC",
+    "Renk Açıklaması": "B79-001-43 mm",
+    "Beden": "STD",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600217343",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "32",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600215073",
+    "Ürün Kodu": "BM23009178MS",
+    "Ürün Adı": "ACT",
+    "Renk Açıklaması": "DARK SHADOW",
+    "Beden": "34",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600254881",
+    "Ürün Kodu": "BM24001015MS",
+    "Ürün Adı": "MARVIN",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "M",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600252689",
+    "Ürün Kodu": "BM24001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600243243",
+    "Ürün Kodu": "BM23010270A4",
+    "Ürün Adı": "BM WEEKEND BAG",
+    "Renk Açıklaması": "OLIVE",
+    "Beden": "STD",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600228288",
+    "Ürün Kodu": "BM23012301KS",
+    "Ürün Adı": "BM BUCKET KIDS",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "3-4Y",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146780",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "BROWN",
+    "Beden": "M",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600158080",
+    "Ürün Kodu": "BM22004181MS",
+    "Ürün Adı": "BM CARGO",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "38",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600249061",
+    "Ürün Kodu": "BM24001373MS",
+    "Ürün Adı": "CHEVON",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600247753",
+    "Ürün Kodu": "BM24002003MS",
+    "Ürün Adı": "MARTIN",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "XL",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600158967",
+    "Ürün Kodu": "BM22004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "33",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600167426",
+    "Ürün Kodu": "BM220232604A",
+    "Ürün Adı": "FINCH",
+    "Renk Açıklaması": "YELLOW",
+    "Beden": "39-41",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600224334",
+    "Ürün Kodu": "BM23044140A4",
+    "Ürün Adı": "RONNIE",
+    "Renk Açıklaması": "CRIMSON",
+    "Beden": "STD",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600252764",
+    "Ürün Kodu": "BM24001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "3XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600252801",
+    "Ürün Kodu": "BM24001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "XL",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600291992",
+    "Ürün Kodu": "BM24001091MS",
+    "Ürün Adı": "LEO",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "L",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600160175",
+    "Ürün Kodu": "BM22009178MS",
+    "Ürün Adı": "ACT",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "30",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600222569",
+    "Ürün Kodu": "BM23001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600252795",
+    "Ürün Kodu": "BM24001080MS",
+    "Ürün Adı": "ONTHE",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600253457",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "L",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600253303",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "4XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600253433",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "3XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600146810",
+    "Ürün Kodu": "BM21055248A4",
+    "Ürün Adı": "BM NOTEBOOK",
+    "Renk Açıklaması": "INDIGO",
+    "Beden": "S",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600159179",
+    "Ürün Kodu": "BM22004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "SAND",
+    "Beden": "33",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600217435",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "SAND",
+    "Beden": "34",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600217459",
+    "Ürün Kodu": "BM23004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "SAND",
+    "Beden": "38",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600167433",
+    "Ürün Kodu": "BM220232604A",
+    "Ürün Adı": "FINCH",
+    "Renk Açıklaması": "YELLOW",
+    "Beden": "42-45",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600222620",
+    "Ürün Kodu": "BM23001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "WHITE",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600258599",
+    "Ürün Kodu": "BM24001389MS",
+    "Ürün Adı": "WILLIAM BRUSHED",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600298748",
+    "Ürün Kodu": "BM24001479MW",
+    "Ürün Adı": "NOLAN",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600247777",
+    "Ürün Kodu": "BM24002003MS",
+    "Ürün Adı": "MARTIN",
+    "Renk Açıklaması": "PINK",
+    "Beden": "2XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600259930",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "JADE PAISLEY",
+    "Beden": "3XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600215721",
+    "Ürün Kodu": "BM23004181MS",
+    "Ürün Adı": "BM CARGO",
+    "Renk Açıklaması": "OLIVE",
+    "Beden": "38",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600244813",
+    "Ürün Kodu": "BM23006354A4",
+    "Ürün Adı": "COLE",
+    "Renk Açıklaması": "BROWN",
+    "Beden": "120",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600247791",
+    "Ürün Kodu": "BM24002003MS",
+    "Ürün Adı": "MARTIN",
+    "Renk Açıklaması": "PINK",
+    "Beden": "4XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600259923",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "JADE PAISLEY",
+    "Beden": "2XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600212133",
+    "Ürün Kodu": "BM23003197MS",
+    "Ürün Adı": "ARTHUS STRETCH SOLID",
+    "Renk Açıklaması": "PROVENCE",
+    "Beden": "L",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600223924",
+    "Ürün Kodu": "BM23006136A4",
+    "Ürün Adı": "LEE",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "110",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600253464",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "M",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600253471",
+    "Ürün Kodu": "BM24001170MS",
+    "Ürün Adı": "RICCI",
+    "Renk Açıklaması": "NAVY",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600260868",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "WHITE MAZE",
+    "Beden": "L",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600260882",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "WHITE MAZE",
+    "Beden": "S",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600215059",
+    "Ürün Kodu": "BM23009178MS",
+    "Ürün Adı": "ACT",
+    "Renk Açıklaması": "DARK SHADOW",
+    "Beden": "32",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600227618",
+    "Ürün Kodu": "BM23012202A4",
+    "Ürün Adı": "REX TECH",
+    "Renk Açıklaması": "24H LE MANS WHITE",
+    "Beden": "STD",
+    "Envanter": "3"
+  },
+  {
+    "Barkod": "8691600299127",
+    "Ürün Kodu": "BM24003123MS",
+    "Ürün Adı": "GTS",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "M",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600252009",
+    "Ürün Kodu": "BM24004051MS",
+    "Ürün Adı": "EDMUND",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "30",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600325390",
+    "Ürün Kodu": "BM24001389MW",
+    "Ürün Adı": "WILLIAM BRUSHED",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "2XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600259978",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "JADE PAISLEY",
+    "Beden": "M",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600261308",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "NAVY SPACE",
+    "Beden": "5XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600261346",
+    "Ürün Kodu": "BM24003011MS",
+    "Ürün Adı": "ARTHUS",
+    "Renk Açıklaması": "NAVY SPACE",
+    "Beden": "XL",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600266082",
+    "Ürün Kodu": "BM24006136A4",
+    "Ürün Adı": "LEE",
+    "Renk Açıklaması": "BLACK",
+    "Beden": "120",
+    "Envanter": "4"
+  },
+  {
+    "Barkod": "8691600299226",
+    "Ürün Kodu": "BM24006136A4",
+    "Ürün Adı": "LEE",
+    "Renk Açıklaması": "BROWN",
+    "Beden": "120",
+    "Envanter": "2"
+  },
+  {
+    "Barkod": "8691600223849",
+    "Ürün Kodu": "BM23023260A4",
+    "Ürün Adı": "FINCH",
+    "Renk Açıklaması": "GREY MELANGE",
+    "Beden": "39-41",
+    "Envanter": "1"
+  },
+  {
+    "Barkod": "8691600255000",
+    "Ürün Kodu": "BM24001015MS",
+    "Ürün Adı": "MARVIN",
+    "Renk Açıklaması": "DARK NAVY",
+    "Beden": "M",
+    "Envanter": "1"
+  }
+]
